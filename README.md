@@ -1,7 +1,15 @@
-# Careful!
+# Project 0
 
-You seem to have visited `github.com/me50/USERNAME`, but you forgot to replace `USERNAME` with your own GitHub username! For instance, if your GitHub username were `jharvard` (which it isn't!), you should have visited `github.com/me50/jharvard` instead of `github.com/me50/USERNAME`.
+Web Programming with Python and JavaScript
 
-## tl;dr
+This project comprises 4 different HTML files:
 
-Visit `github.com/me50/USERNAME`, where `USERNAME` is your own GitHub username, not `USERNAME` literally!
+- index.html -> Main file, it has a Bootstrap warning alert on the top of it. The menu has indexed the 4 HTML files. There is a grid of text with
+automatic size of columns. There is also a grid of images that are getting bigger or smaller depending on the size of the window. If the windows is smaller
+than 499 px gets grey instead of white
+
+- bass.html -> It has an ordered list
+
+- guitar.html -> It has an unordered list
+
+- music.html -> It contains a table with some video links from Youtube
